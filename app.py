@@ -8,7 +8,7 @@ from pathlib import Path
 
 # Set page config
 st.set_page_config(page_title="Gapminder Analysis Dashboard", layout="wide", page_icon = "🌍")
-
+# make new note
 # Custom title with colors
 st.markdown(
     """
